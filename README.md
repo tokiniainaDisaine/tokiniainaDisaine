@@ -45,8 +45,8 @@ I am a polyvalent developer specializing in **Machine Learning** and **Data Scie
 
 This section is still in construction :(
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheRealToky&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealToky&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tokiniainaDisaine&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokiniainaDisaine&layout=compact&theme=radical)
 
 ---
 
