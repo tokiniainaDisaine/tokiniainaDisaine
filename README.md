@@ -56,8 +56,8 @@ I am a polyvalent developer specializing in **Machine Learning** and **Data Scie
 - **🧩 Passions:** Chess player ♟️, Basketball enthusiast 🏀, Voracious reader 📚, and lifelong Language Learner.
 
 ### 📫 Connect with me
-- **WhatsApp (most active):** [+250795610](+250795610)
-- **LinkedIn:** [linkedin.com/in/toky-disaine-11bb3b210/](https://www.linkedin.com/in/toky-disaine-11bb3b210/)
+- **WhatsApp (most active):** [+250795610351](+250795610351)
+- **LinkedIn:** [linkedin.com/in/toky-disaine/](https://www.linkedin.com/in/toky-disaine/)
 - **Portfolio:** [my_portfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (Still don't have one sorry XD)
 
 ---
