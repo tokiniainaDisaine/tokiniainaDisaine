@@ -43,8 +43,6 @@ I am a polyvalent developer specializing in **Machine Learning** and **Data Scie
 
 ### 📊 GitHub Activity
 
-This section is still in construction :(
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tokiniainaDisaine&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokiniainaDisaine&layout=compact&theme=radical)
 
