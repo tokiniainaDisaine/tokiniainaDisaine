@@ -58,7 +58,7 @@ I am a polyvalent developer specializing in **Machine Learning** and **Data Scie
 ### 📫 Connect with me
 - **WhatsApp (most active):** [+250795610351](+250795610351)
 - **LinkedIn:** [linkedin.com/in/toky-disaine/](https://www.linkedin.com/in/toky-disaine/)
-- **Portfolio:** [my_portfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (Still don't have one sorry XD)
+- **Portfolio:** [my_portfolio]() Still in construction, sorry :(
 
 ---
 *"Endless curiosity is the fuel for innovation."*
