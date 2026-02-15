@@ -21,6 +21,12 @@ I am a polyvalent developer specializing in **Machine Learning** and **Data Scie
 
 ### 🌟 Featured Projects
 
+#### 🔢 [Neural Network from Scratch – MNIST Digit Classification](https://github.com/TheRealToky/mnist-classification)
+**Building Deep Learning Foundations from First Principles**
+* Implemented a fully connected neural network entirely from scratch, including manual forward and backward propagation.
+* **Key Features:** Custom-derived backpropagation and gradient descent, achieving 92%+ accuracy on handwritten digit classification using the MNIST dataset.
+* **Tech Stack:** Python, NumPy, Pandas.
+
 #### 🌍 [Natural Disaster Prediction Dashboard](https://github.com/tokiniainaDisaine/rwanda-risk-alert)
 **Predictive Analytics for Environmental Safety**
 * Developed a web-based platform to analyze and visualize Rwanda’s disaster risk indices.
