@@ -23,7 +23,7 @@ Machine Learning for financial time-series, quantitative finance, predictive mod
 - **Data Science & ML:** `Pandas`, `NumPy`, `Matplotlib`, `SciKit-Learn`, `XGBoost`, `Earth Engine API`
 - **Web & Backend:** `Flask`, `FastAPI`
 - **Other tools:** `Docker`, `Nginx`, `Linux`, `Git`, `LaTeX`
-- **Databases:** `PostgreSQL (TimescaleDB)`, `MySQL`, `SQLite`
+- **Databases:** `PostgreSQL (TimescaleDB)`, `MySQL`, `SQLite`, `DuckDB`
 
 ---
 
