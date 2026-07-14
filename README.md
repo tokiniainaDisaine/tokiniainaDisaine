@@ -21,8 +21,8 @@ Machine Learning for financial time-series, quantitative finance, predictive mod
 
 - **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - **Data Science & ML:** `Pandas`, `NumPy`, `Matplotlib`, `SciKit-Learn`, `XGBoost`, `Earth Engine API`
-- **Web & Backend:** `Flask`, `React`, `Next.js`, `Node.js`, `Express`, `TypeScript`, `Tailwind CSS`
-- **DevOps & Infra:** `Docker`, `Nginx`, `Linux`, `Git`, `LaTeX`
+- **Web & Backend:** `Flask`
+- **Other tools:** `Docker`, `Nginx`, `Linux`, `Git`, `LaTeX`
 - **Databases:** `PostgreSQL (TimescaleDB)`, `MySQL`, `SQLite`
 
 ---
@@ -48,7 +48,7 @@ Machine Learning for financial time-series, quantitative finance, predictive mod
 * **Key Features:** Data normalization for regional comparison and risk prediction for landslides, droughts, and floods.
 * **Tech Stack:** Python, Flask, Earth Engine API, Nginx.
 
-#### [FitSync – Gym Management Platform](https://github.com/TheRealToky/stock_model)
+#### [FitSync – Gym Management Platform](https://github.com/ydejene/fitsync)
 **Full-Stack SaaS for Gym Operations**
 * Built a full-stack SaaS platform for gym operations: member management, class scheduling, Telebirr B2B payments, and an analytics dashboard with 17+ parallel queries.
 * Implemented role-based access control with granular staff permissions, Google OAuth, JWT auth, and a subscription-gated model for gym owners.
